@@ -1,4 +1,7 @@
 # neural network class definition
+from email.headerregistry import DateHeader
+
+
 class neuralNetwork:
     # initialize the neural network
     def __init__(self) -> None:
@@ -12,6 +15,7 @@ class neuralNetwork:
     def query():
         pass
 
+        DateHeader
     
 
     
